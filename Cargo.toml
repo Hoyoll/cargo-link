@@ -6,6 +6,3 @@ edition = "2024"
 [[bin]]
 name = "cargo-link"
 path = "src/main.rs"
-
-[dependencies]
-home = "0.5.12"
